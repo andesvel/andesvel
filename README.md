@@ -1,22 +1,21 @@
-<h1>What's Up? 👋🏻</h1>
+# What's Up? 👋🏻
 
 ###
 
-<h3>💫 About Me:</h3>
-
-###
-
-- 🔭 I’m currently working on [Nuto](https://github.com/andesvel/nuto)
-
-- 🌱 I’m currently learning **Angular, Astro & Spring Boot**
-
-- 💬 Ask me about **React, Remix/react Router, Next.js, Typescript, Javascript, Python, Java, or Kotlin**
-
-- 📫 How to reach me: **rt.estrada@proton.me**
+<samp>
+  
+  - 🔭 I’m currently working on <a href="https://github.com/andesvel/nuto">Nuto</a>
+  
+  - 🌱 I’m currently learning **Angular, Astro & Spring Boot**
+  
+  - 💬 Ask me about **React, Remix/react Router, Next.js, Typescript, Javascript, Python, Java, or Kotlin**
+  
+  - 📫 How to reach me: **rt.estrada@proton.me**
+  </samp>
   
 ###
 
-<h3>🛠️ Tech stack I work with:</h3>
+### 💻 Tech Stack:
 
 ###
 
@@ -41,17 +40,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
-
-###
-
-<h3>📊 My stats:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andesvel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andesvel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
