@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular, Astro & Spring Boot**
 
-- 💬 Ask me about **React, Remix/react Router, Next.js, Typescript, Javascript, Java, Python or Kotlin**
+- 💬 Ask me about **React, Remix/react Router, Next.js, Typescript, Javascript, Python, Java, or Kotlin**
 
 - 📫 How to reach me: **rt.estrada@proton.me**
   
