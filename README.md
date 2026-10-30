@@ -2,6 +2,6 @@
 
 I’m a fullstack developer and music producer interested in building tools for creators/artists.
 
-Currently working on [Nuto](https://nuto.dev) and cooking up some other tools in private until I consider them ready to release. Keep in touch.
+Currently working on [Morfolo](https://nuto.dev/morfolo) and cooking up some other tools in private until I consider them ready to release. Keep in touch.
 
 [contact](mailto:rt.estrada@proton.me)
